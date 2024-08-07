@@ -12,5 +12,14 @@ The "Control" menu is a key feature of the Travel Notepad, offering users a comp
 
 To further enhance user experience, the Travel Notepad offers basic color modes that can be selected to suit different preferences and environments. Users can choose from color schemes such as white with black text, black with white text, blue with white text, and green with white text. These options not only allow users to personalize the appearance of their notes but also ensure optimal readability in various lighting conditions. Whether for daytime note-taking or nighttime reading, these color modes contribute to a more comfortable and customized notetaking experience.
 
+#
+### Related Links
+
+[Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
+<br>
+[Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
