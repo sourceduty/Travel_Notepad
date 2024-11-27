@@ -20,6 +20,8 @@ To further enhance user experience, the Travel Notepad offers basic color modes 
 [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 <br>
 [Plain Text](https://github.com/sourceduty/Plain_Text)
+<br>
+[Autoformat Notepad](https://github.com/sourceduty/Autoformat_Notepad)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
